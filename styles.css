@@ -2,10 +2,10 @@
     --background-color: #000000;
     --card-background: #1C1C1E;
     --text-color: #FFFFFF;
-    --secondary-text: #8E8E93;
-    --accent-color: #32D74B;
+    --secondary-text: #f2c55b;
+    --accent-color: #238cd2;
     --danger-color: #FF453A;
-    --warning-color: #FF9F0A;
+    --warning-color: #FF9F0A; 
     --button-background: rgba(60, 60, 67, 0.33);
     --button-highlight: rgba(255, 255, 255, 0.1);
     --font-sf: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', sans-serif;
@@ -394,4 +394,4 @@ h1 {
 /* Firefox */
 .setting-item input[type="number"] {
     -moz-appearance: textfield;
-}
+}  
